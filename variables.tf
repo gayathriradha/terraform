@@ -1,5 +1,5 @@
-variable "aws_access_key" {default = "AKIAQCO22FFC32CIE5DB"}
-variable "aws_secret_key" {default = "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"}
+variable "aws_access_key" {default = ""}
+variable "aws_secret_key" {default = ""}
 variable "aws_region" {default = "us-east-1"}
 variable "amis" {
     description = "AMIs by region"
